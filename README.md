@@ -37,6 +37,8 @@
 008. Guess_the_number
 009. higher_lower
 010. Quiz_Game
+011. Runners_Race
+012. Snake_Game  
 
 
 --------------------------/--------------------------
