@@ -20,6 +20,10 @@
 013. CoffeeMachine
 014. Coffee_Machine
 015. Hirst_Painting
+016. Mail_Merge
+017. NATO_Alphabet
+018. Mile_to_Km_Converter
+019. Pomodoro
 
     
 --------------------------/--------------------------
@@ -40,6 +44,9 @@
 011. Runners_Race
 012. Snake_Game
 013. Pong_Game
+014. Turtle_Crossing_The_Street
+015. US_States_Game
+016. Bitcoin_Stakers (in progress 1% / 100% completed)
 
 
 --------------------------/--------------------------
