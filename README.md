@@ -24,6 +24,13 @@
 017. NATO_Alphabet
 018. Mile_to_Km_Converter
 019. Pomodoro
+020. Password_Manager
+021. Flash_Card_English_Spanish
+022. Birthday_Wisher
+023. ISS_Overhead_Notifier
+024. Quizzler_App
+025. Rain_Alert
+026. Tesla_news
 
     
 --------------------------/--------------------------
